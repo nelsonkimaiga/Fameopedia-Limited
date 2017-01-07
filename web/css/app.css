@@ -8,7 +8,7 @@ html{
 
 body{
     font-family: 'Raleway', serif;
-    color: #666;
+    color: #FFF;
     text-align: center;
     font-size: 15px;
     background: #371115 url(../img/background.jpg) top center no-repeat;
@@ -30,4 +30,56 @@ h6 {
 
 #brandsearch{
     margin-top: 100px;
+}
+
+.about{
+    margin-top: 50px;
+}
+
+
+/*footer*/
+#footer {
+  position: absolute;
+  width: 100%;
+  color: #FFFFFF;
+  background-color: #371115;
+  padding-bottom: 12px;
+  padding-top: 32px; 
+}
+
+.foot {
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: -2px; 
+}
+
+.toof {
+  padding-bottom: 40px; 
+}
+
+.toof ul{
+  margin-left: -1px;
+}
+
+#footer a {
+  font-size: 14px;
+  color: white;
+  margin: 0px; 
+}
+
+#footer a:hover {
+  color: rgb(255, 255, 0); 
+}
+
+.social {
+  margin-top: 24px;
+  padding: 12px;
+  font-size: 18px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 100px;
+  background-color: rgba(0, 0, 0, 0.1); 
+}
+
+.social:hover {
+  background-color: white;
 }
