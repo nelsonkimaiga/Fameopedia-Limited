@@ -162,7 +162,7 @@ p.lead {
 }
 .social-links a {
     color:#3366ff
-    padding-right:10px;
+    padding-right: 10px;
     text-decoration:none;
     
 }
@@ -195,16 +195,6 @@ p.lead {
     color:#fff;
 }
 
-/*moving icon*/
-/*#movingicon {
-    margin-top:2px;
-    text-align:center;
-    /*vertical-align:central;*/
-    /*color:rgb(255, 153, 0);*/
-    /*font-weight:900;*/
-    /*font-size:40px;*/
-    /*letter-spacing:3px;*/
-}*/
 
 .icon-color{
     color:#3366ff;
